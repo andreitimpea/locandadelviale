@@ -52,10 +52,10 @@ $form = array(
     'message' => array(
     'order' => 5,
     'type' => 'string',
-    'label' => 'Per qualsiasi informazioni o se ha delle richeste, puo scriverci',
+    'label' => 'Richieste ed informazioni:',
     'required' => true,
     'errors' => array(
-    'required' => 'Field \'Per qualsiasi informazioni o se ha delle richeste, puo scriverci\' is required.'
+    'required' => 'Field \'Richieste ed informazioni:\' is required.'
     )
     ),
     )
