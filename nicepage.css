@@ -35214,20 +35214,20 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header {
-    min-height: 134px;
+    min-height: 123px;
   }
 
   .u-header .u-image-1 {
-    width: 385px;
-    height: 58px;
-    margin-top: 20px;
+    width: 339px;
+    height: 50px;
+    margin-top: 16px;
     margin-left: auto;
   }
 
   .u-header .u-menu-1 {
-    margin-top: 5px;
+    margin-top: 4px;
     margin-right: auto;
-    margin-bottom: 6px;
+    margin-bottom: 8px;
   }
 }
 .u-footer {
