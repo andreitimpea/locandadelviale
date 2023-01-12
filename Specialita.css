@@ -520,11 +520,12 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1261px;
+    min-height: 1294px;
   }
 
   .u-section-1 .u-image-1 {
     height: 67px;
+    margin-top: 475px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -533,13 +534,13 @@
   .u-section-1 .u-image-2 {
     width: 278px;
     height: 296px;
-    margin-top: -367px;
+    margin-top: -386px;
   }
 
   .u-section-1 .u-tabs-1 {
     min-height: 678px;
-    margin-top: 134px;
-    margin-bottom: 4px;
+    margin-top: 126px;
+    margin-bottom: 36px;
   }
 
   .u-section-1 .u-text-1 {

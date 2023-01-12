@@ -3,9 +3,8 @@
 require_once('FormProcessor.php');
 
 $form = array(
-    'subject' => 'Mail per nuova prenotazione',
-    'email_message' => 'Questa persona ha prenotato :
-',
+    'subject' => 'Nuova prenotazione tramite il sito',
+    'email_message' => 'Nuova Prenotazione tramite il sito:',
     'success_redirect' => '',
     'sendIpAddress' => true,
     'email' => array(

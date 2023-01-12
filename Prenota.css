@@ -1,6 +1,6 @@
 .u-section-1 {
-  background-image: url("images/foto_5.jpg");
-  background-position: 100% 50%;
+  background-image: url("images/33a3f2cf-4d4d-468a-8d56-f76e13f26c801.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -13,7 +13,7 @@
 }
 
 .u-section-1 .u-image-1 {
-  min-height: 1118px;
+  min-height: 1129px;
   background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/prenota1.png");
   background-position: 50% 50%;
   margin-top: 0;
@@ -36,8 +36,9 @@
 }
 
 .u-section-1 .u-form-1 {
-  height: 765px;
-  margin: 41px auto 0;
+  height: 778px;
+  width: 808px;
+  margin: 41px 0 0;
 }
 
 .u-section-1 .u-form-group-1 {
@@ -83,18 +84,12 @@
     position: relative;
   }
 
-  .u-section-1 .u-image-1 {
-    min-height: 1129px;
-  }
-
   .u-section-1 .u-text-1 {
     margin-top: 20px;
   }
 
   .u-section-1 .u-form-1 {
     margin-top: 48px;
-    margin-right: initial;
-    margin-left: initial;
   }
 }
 
@@ -119,8 +114,7 @@
   .u-section-1 .u-form-1 {
     height: 323px;
     margin-top: 38px;
-    margin-right: initial;
-    margin-left: initial;
+    width: 660px;
   }
 }
 
@@ -145,6 +139,10 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-1 .u-form-1 {
+    width: 520px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -159,6 +157,10 @@
   .u-section-1 .u-image-2 {
     width: 320px;
     height: 97px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 320px;
   }
 
   .u-section-1 .u-form-group-2 {
